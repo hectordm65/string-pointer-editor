@@ -1,0 +1,29 @@
+Inventory Status Report, produced by Hector Dominguez-Maceda
+Department: Dept
+        Description (InvTag): QuantityOnHand
+Department: Toys
+        Paw Patrol Action Figure: Blue (123-001): 13
+        Paw Patrol Action Figure: Red (123-002): 2
+        Paw Patrol Action Figure: Yellow (123-003): 5
+        Star Wars Figure: Luke Skywalker (215-8015): 4
+        Star Wars Figure: Han Solo (215-8016): 7
+        Star Wars Figure: Chewbacca (215-8016): 7
+        Star Wars Figure: Darth Vader (215-8019): 2
+        Star Wars Figure: Imperial Stormtrooper (215-8025): 12
+        Star Wars Figure: Princess Leia (215-8017): 1
+        Star Wars Figure: C-3PO (215-8022): 9
+Department: Sporting Goods
+        Basketball: Full-size (500-01-01): 38
+        Basketball: Full-size: Red-White-Blue (500-01-03): 4
+        Basketball: Mini-size  (500-01-10): 15
+        Standard Baseball Hardball (500-02-01): 24
+        Regulation Softball (500-02-05): 12
+Department: Housewares
+        Stainless Frypan - 9" (10-1234): 18
+        Stainless Frypan - 12" (10-1235): 5
+        Stainless Frypan - 6" (10-1233): 2
+Department: Clearance
+        HP Desktop: Intel: 4GB: Windows 7 Home (0001-xxx123): 2
+        iPad: Refurbished (0001-xxx412): 1
+
+Total Items in inventory: 183

@@ -1,0 +1,21 @@
+Dept,InvTag,QuantityOnHand,Description
+Toys,123-001,13,Paw Patrol Action Figure: Blue
+Toys,123-002,2,Paw Patrol Action Figure: Red
+Toys,123-003,5,Paw Patrol Action Figure: Yellow
+Toys,215-8015,4,Star Wars Figure: Luke Skywalker
+Toys,215-8016,7,Star Wars Figure: Han Solo
+Toys,215-8016,7,Star Wars Figure: Chewbacca
+Toys,215-8019,2,Star Wars Figure: Darth Vader
+Toys,215-8025,12,Star Wars Figure: Imperial Stormtrooper
+Toys,215-8017,1,Star Wars Figure: Princess Leia
+Toys,215-8022,9,Star Wars Figure: C-3PO
+Sporting Goods,500-01-01,38,Basketball: Full-size
+Sporting Goods,500-01-03,4,Basketball: Full-size: Red-White-Blue
+Sporting Goods,500-01-10,15,Basketball: Mini-size 
+Sporting Goods,500-02-01,24,Standard Baseball Hardball
+Sporting Goods,500-02-05,12,Regulation Softball
+Housewares,10-1234,18,Stainless Frypan - 9"
+Housewares,10-1235,5,Stainless Frypan - 12"
+Housewares,10-1233,2,Stainless Frypan - 6"
+Clearance,0001-xxx123,2,HP Desktop: Intel: 4GB: Windows 7 Home
+Clearance,0001-xxx412,1,iPad: Refurbished
